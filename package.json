@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "get-json": "^1.0.1",
     "http": "0.0.0",
-    "lowdb": "^1.0.0",
+    "lowdb": "^2.0.2",
     "node-cron": "^2.0.3",
     "node-telegram-bot-api": "^0.52.0"
   },
